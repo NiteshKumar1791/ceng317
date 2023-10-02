@@ -14,6 +14,7 @@ Student Name: ________________________________
 |[Network adapter](https://www.amazon.ca/Cable-Matters-SuperSpeed-Gigabit-Ethernet/dp/B00BBD7NFU)  |      20.99 |      1 |             |    |     |       20.99 |                         |          Semester 2 |
 |[Ethernet cable](https://www.amazon.ca/StarTech-com-Cat5e-Ethernet-Cable1-Snagless/dp/B0002XGHBQ) |       9.49 |      1 |             |    |     |        9.49 |                         |          Semester 2 |
 |*Sensor/Effector*                                                                                 |      *TBD* |      1 |             |    |*TBD*|             |                   *TBD* |      *Reading Week* |
++|[SparkFun Qwiic 12 Bit ADC - 4 Channel (ADS1015)](https://www.sparkfun.com/products/15334)        |       21.5 |      1 |       3.37  |    |3.24 |             |                    28.2 |      *Reading Week* |
 |[Stacking Header](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1979/6238003) |       4.24 |      1 |             |    | 0.55|             |                    4.79 |      *Reading Week* |
 |[Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746)  |       0.81 |      1 |             |    | 0.11|             |                    0.92 |      *Reading Week* |
 |[Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723)  |      12.88 |      1 |             |    | 1.67|             |                   14.55 |      *Reading Week* |
